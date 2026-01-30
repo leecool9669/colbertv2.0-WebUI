@@ -1,0 +1,11 @@
+{
+  "architectures": ["HF_ColBERT"],
+  "model_type": "bert",
+  "tokenizer_config": {
+    "unk_token": "[UNK]",
+    "sep_token": "[SEP]",
+    "pad_token": "[PAD]",
+    "cls_token": "[CLS]",
+    "mask_token": "[MASK]"
+  }
+}
